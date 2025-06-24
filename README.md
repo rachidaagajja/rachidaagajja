@@ -29,8 +29,7 @@ I'm a hospitality student who's carved her path through tourism, tech tools, and
 
 | Project | What I Did | Focus Area |
 |--------|-------------|------------|
-| **Affus Made** | Built and marketed a fair-trade platform connecting Moroccan artisans with conscious buyers | Strategy · Ethics · Branding |
-| **Tourism Cluster – Taghazout** | Created an off-season tourism booster with glamping, Gnawa shows & camel rides | Event Design · Regional Tourism |
+| **Affus Made** | Marketed a fair-trade platform connecting Moroccan artisans with conscious buyers | Strategy · Ethics · Branding |
 | **Hilton Tangier Internship** | Delivered VIP service, improved F&B logistics & helped design seasonal menus | Guest Experience · Operations |
 
 ---
@@ -61,7 +60,7 @@ Open to joining mission-driven brands, tourism agencies, or marketing teams who 
 
 ## 🤝 Let’s Connect
 
-[LinkedIn](https://www.reallygreatsite.com)  
+[LinkedIn](www.linkedin.com/in/rachida-agajja)  
 📧 Rachida.AGAJJA@um6p.ma  
 📱 +212 658 754 924
 
