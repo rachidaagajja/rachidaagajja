@@ -1,8 +1,12 @@
-# 👋 Hey there, I'm Rachida Agajja
+# 👋 Hey there, I'm Rachida Agajja <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7503D&center=false&vCenter=true&width=435&lines=Hospitality+Student+%7C+Digital+Marketer;Storytelling+%2B+Strategy+%3D+Me)](https://git.io/typing-svg)
 
 🎓 Hospitality & Marketing Enthusiast  
 🌍 Based in Morocco | 🔁 Alternance-seeker in France (Starting Sept 2026)  
-💡 Focused on Digital Marketing, Strategy & Experience Design
+💡 Focused on Digital Marketing, Strategy & Experience Design  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/rachida-agajja)
 
 ---
 
@@ -51,6 +55,14 @@ I'm a hospitality student who's carved her path through tourism, tech tools, and
 
 ---
 
+## 📊 GitHub Activity
+
+![Rachida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachida-agajja&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachida-agajja&layout=compact&theme=tokyonight)](https://github.com/rachida-agajja)
+
+---
+
 ## 🎯 Currently Seeking
 
 📍 **Alternance (work-study)** in **Marketing** — especially digital marketing — in **France** starting **September 2026**.  
@@ -60,7 +72,6 @@ Open to joining mission-driven brands, tourism agencies, or marketing teams who 
 
 ## 🤝 Let’s Connect
 
-[LinkedIn](www.linkedin.com/in/rachida-agajja)  
 📧 Rachida.AGAJJA@um6p.ma  
 📱 +212 658 754 924
 
