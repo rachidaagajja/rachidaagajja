@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Rachida Agajja <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# 👋 Hey there, I'm Rachida AGAJJA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7503D&center=false&vCenter=true&width=435&lines=Hospitality+Student+%7C+Digital+Marketer;Storytelling+%2B+Strategy+%3D+Me)](https://git.io/typing-svg)
 
@@ -23,7 +23,7 @@ I'm a hospitality student who's carved her path through tourism, tech tools, and
 *2025 – Present*
 
 - Co-launching the agency’s new DMC website 🧭  
-- Built social media strategies across Instagram, LinkedIn & Facebook  
+- Built social media strategies across Instagram, LinkedIn, Tiktok & Facebook  
 - Explored the world of **Destination Management Companies**  
 - Learned & used **Notion** for content planning, operations & team workflow
 
@@ -34,7 +34,7 @@ I'm a hospitality student who's carved her path through tourism, tech tools, and
 | Project | What I Did | Focus Area |
 |--------|-------------|------------|
 | **Affus Made** | Marketed a fair-trade platform connecting Moroccan artisans with conscious buyers | Strategy · Ethics · Branding |
-| **Hilton Tangier Internship** | Delivered VIP service, improved F&B logistics & helped design seasonal menus | Guest Experience · Operations |
+| **Hilton Tangier Internship** | Delivered VIP service, coordinated between teams and helped with training for seasonal employees | Guest Experience · Operations |
 
 ---
 
