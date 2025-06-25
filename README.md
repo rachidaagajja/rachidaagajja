@@ -55,13 +55,6 @@ I'm a hospitality student who's carved her path through tourism, tech tools, and
 
 ---
 
-## 📊 GitHub Activity
-
-![Rachida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachida-agajja&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachida-agajja&layout=compact&theme=tokyonight)](https://github.com/rachida-agajja)
-
----
 
 ## 🎯 Currently Seeking
 
